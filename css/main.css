@@ -288,10 +288,15 @@ h2 {
   .contacto-wrapper input{
     height: 60px;
     width: 80%;
+    border-radius: 8px;
   }
 
   .contacto-wrapper input:last-child{
     height: 150px;
+  }
+
+  .button button{
+    border-radius: 8px;
   }
 
   /* FOOTER */
@@ -300,13 +305,3 @@ h2 {
   }
 
 }
-
-/* Screen ipad */
-/* @media (max-width: 680px) {
-
-} */
-
-/* Screen cell size M */
-/* @media (max-width: 360px) {
-
-} */
